@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://giphy.com/gifs/tecnologia-robo-idealti-hWhzyAxIu6rVS5AKbP)
 <!--
 **ProfaDanielePassos/ProfaDanielePassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
